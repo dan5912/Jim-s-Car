@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root Version="6">
+  <LanguageContainerStyle DisplayGrid="true" FunctionBlockInstanceName="true" VariableDisplayMode="NameAndAlias" VariableAlpha="255" VariableTextColor="windowtext" VariableOnlineTextColor="Red" VariableBackgroundColor="SteelBlue" VariableGradientColor="LightSteelBlue" Font="Microsoft Sans Serif, 8.25pt" VariableWidth="8" VariableCommentPosition="None" Index="0">
+    <LinkStyle IsArrow="false" Key="(1,0)(3,0)" />
+    <LinkStyle IsArrow="false" Key="(2,0)(3,1)" />
+    <LinkStyle IsArrow="false" Key="(3,0)(4,0)" />
+    <LinkStyle IsArrow="false" Key="(5,0)(7,0)" />
+    <LinkStyle IsArrow="false" Key="(6,0)(7,1)" />
+    <LinkStyle IsArrow="false" Key="(7,0)(8,0)" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Key="1" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Key="2" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="OR" Top="90" Left="240" Key="3" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Key="4" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Key="5" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Key="6" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="OR" Top="90" Left="240" Key="7" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Key="8" />
+  </LanguageContainerStyle>
+</Root>

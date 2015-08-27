@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# CCW Solution File, CCW Software 8.0
+Project("{A6F45E2C-46AC-4E2B-9F75-4E058226B5AB}") = "Controller", "Controller\Controller.acfproj", "{08F052AB-A941-467E-9479-8AC34B2C2061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Online|Any CPU = Online|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F052AB-A941-467E-9479-8AC34B2C2061}.Online|Any CPU.ActiveCfg = Online|Any CPU
+		{08F052AB-A941-467E-9479-8AC34B2C2061}.Online|Any CPU.Build.0 = Online|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

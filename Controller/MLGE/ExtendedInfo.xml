@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectElements>
+  <AcfElementGuid Guid="3519fafa-77c0-4cf6-bc0f-4462f7a8d12d">
+    <File>WiperLogic.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="365e9f4c-27b4-4a03-ae63-cf548a91452f">
+    <File>HumidorLogic.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="3761c4c1-547a-484f-b28a-b725034edc91">
+    <File>ThreeButtonSeq.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="7fbd5a95-018c-4d6a-94ae-5de4b0b605e6">
+    <File>CutterLogic.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="8447a698-29dc-4a76-bd09-00775f56f19a">
+    <File>DoorLockLogic.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="8d187b60-5a4a-4bba-98ef-29e18c3585d4">
+    <File>SingleWindowLogic.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="94c3afba-54c5-4350-8bf1-78eb89958da4">
+    <File>HeadlightLogic.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="b1b0ec30-c6f8-4666-80e2-278d1e663a0a">
+    <File>DoubleOR.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="e0d05079-5653-41d3-8c4d-e11db12c2e4f">
+    <File>Main.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="e53f8a3a-0256-47cb-bfe7-6736cb539300">
+    <File>MultiWindowLogic.AcfMlge</File>
+  </AcfElementGuid>
+  <AcfElementGuid Guid="f0047df5-e3b7-48e8-a242-58bb4f6776fa">
+    <File>ToggleTime.AcfMlge</File>
+  </AcfElementGuid>
+</ProjectElements>

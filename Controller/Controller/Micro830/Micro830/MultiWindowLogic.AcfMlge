@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root Version="6">
+  <LanguageContainerStyle DisplayGrid="true" FunctionBlockInstanceName="true" VariableDisplayMode="NameAndAlias" VariableAlpha="255" VariableTextColor="windowtext" VariableOnlineTextColor="Red" VariableBackgroundColor="SteelBlue" VariableGradientColor="LightSteelBlue" Font="Microsoft Sans Serif, 8.25pt" VariableWidth="8" VariableCommentPosition="None" Index="0">
+    <LinkStyle IsArrow="false" Key="(165,0)(166,0)" />
+    <LinkStyle IsArrow="false" Key="(166,0)(163,0)" />
+    <LinkStyle IsArrow="false" Key="(167,0)(170,0)" />
+    <LinkStyle IsArrow="false" Key="(167,0)(172,1)" />
+    <LinkStyle IsArrow="false" Key="(168,0)(167,1)" />
+    <LinkStyle IsArrow="false" Key="(171,0)(172,0)" />
+    <LinkStyle IsArrow="false" Key="(172,0)(169,0)" />
+    <LinkStyle IsArrow="false" Key="(173,0)(176,0)" />
+    <LinkStyle IsArrow="false" Key="(173,0)(178,1)" />
+    <LinkStyle IsArrow="false" Key="(174,0)(173,1)" />
+    <LinkStyle IsArrow="false" Key="(177,0)(178,0)" />
+    <LinkStyle IsArrow="false" Key="(178,0)(175,0)" />
+    <LinkStyle IsArrow="false" Key="(179,0)(182,0)" />
+    <LinkStyle IsArrow="false" Key="(179,0)(184,1)" />
+    <LinkStyle IsArrow="false" Key="(180,0)(179,1)" />
+    <LinkStyle IsArrow="false" Key="(183,0)(184,0)" />
+    <LinkStyle IsArrow="false" Key="(184,0)(181,0)" />
+    <LinkStyle IsArrow="false" Key="(186,0)(188,1)" />
+    <LinkStyle IsArrow="false" Key="(186,0)(202,0)" />
+    <LinkStyle IsArrow="false" Key="(188,0)(201,0)" />
+    <LinkStyle IsArrow="false" Key="(189,0)(191,1)" />
+    <LinkStyle IsArrow="false" Key="(189,0)(205,0)" />
+    <LinkStyle IsArrow="false" Key="(191,0)(204,0)" />
+    <LinkStyle IsArrow="false" Key="(192,0)(194,1)" />
+    <LinkStyle IsArrow="false" Key="(192,0)(208,0)" />
+    <LinkStyle IsArrow="false" Key="(194,0)(207,0)" />
+    <LinkStyle IsArrow="false" Key="(195,0)(197,1)" />
+    <LinkStyle IsArrow="false" Key="(195,0)(211,0)" />
+    <LinkStyle IsArrow="false" Key="(197,0)(210,0)" />
+    <LinkStyle IsArrow="false" Key="(200,0)(186,1)" />
+    <LinkStyle IsArrow="false" Key="(203,0)(189,1)" />
+    <LinkStyle IsArrow="false" Key="(206,0)(192,1)" />
+    <LinkStyle IsArrow="false" Key="(209,0)(195,1)" />
+    <LinkStyle IsArrow="false" Key="(212,0)(215,0)" />
+    <LinkStyle IsArrow="false" Key="(213,0)(215,1)" />
+    <LinkStyle IsArrow="false" Key="(215,0)(214,0)" />
+    <LinkStyle IsArrow="false" Key="(216,0)(219,0)" />
+    <LinkStyle IsArrow="false" Key="(217,0)(219,1)" />
+    <LinkStyle IsArrow="false" Key="(219,0)(218,0)" />
+    <LinkStyle IsArrow="false" Key="(220,0)(223,0)" />
+    <LinkStyle IsArrow="false" Key="(221,0)(223,1)" />
+    <LinkStyle IsArrow="false" Key="(223,0)(222,0)" />
+    <LinkStyle IsArrow="false" Key="(224,0)(227,0)" />
+    <LinkStyle IsArrow="false" Key="(225,0)(227,1)" />
+    <LinkStyle IsArrow="false" Key="(227,0)(226,0)" />
+    <LinkStyle IsArrow="false" Key="(228,0)(165,0)" />
+    <LinkStyle IsArrow="false" Key="(228,0)(167,0)" />
+    <LinkStyle IsArrow="false" Key="(228,0)(171,0)" />
+    <LinkStyle IsArrow="false" Key="(228,0)(173,0)" />
+    <LinkStyle IsArrow="false" Key="(228,0)(177,0)" />
+    <LinkStyle IsArrow="false" Key="(228,0)(179,0)" />
+    <LinkStyle IsArrow="false" Key="(228,0)(183,0)" />
+    <LinkStyle IsArrow="false" Key="(228,0)(234,0)" />
+    <LinkStyle IsArrow="false" Key="(228,0)(76,0)" />
+    <LinkStyle IsArrow="false" Key="(229,0)(231,1)" />
+    <LinkStyle IsArrow="false" Key="(230,0)(231,0)" />
+    <LinkStyle IsArrow="false" Key="(230,0)(234,1)" />
+    <LinkStyle IsArrow="false" Key="(231,0)(245,0)" />
+    <LinkStyle IsArrow="false" Key="(232,0)(236,0)" />
+    <LinkStyle IsArrow="false" Key="(233,0)(228,0)" />
+    <LinkStyle IsArrow="false" Key="(234,0)(236,1)" />
+    <LinkStyle IsArrow="false" Key="(236,0)(228,1)" />
+    <LinkStyle IsArrow="false" Key="(237,0)(186,0)" />
+    <LinkStyle IsArrow="false" Key="(237,0)(188,0)" />
+    <LinkStyle IsArrow="false" Key="(237,0)(189,0)" />
+    <LinkStyle IsArrow="false" Key="(237,0)(191,0)" />
+    <LinkStyle IsArrow="false" Key="(237,0)(192,0)" />
+    <LinkStyle IsArrow="false" Key="(237,0)(194,0)" />
+    <LinkStyle IsArrow="false" Key="(237,0)(195,0)" />
+    <LinkStyle IsArrow="false" Key="(237,0)(197,0)" />
+    <LinkStyle IsArrow="false" Key="(237,0)(243,0)" />
+    <LinkStyle IsArrow="false" Key="(238,0)(240,1)" />
+    <LinkStyle IsArrow="false" Key="(239,0)(240,0)" />
+    <LinkStyle IsArrow="false" Key="(239,0)(243,1)" />
+    <LinkStyle IsArrow="false" Key="(240,0)(247,0)" />
+    <LinkStyle IsArrow="false" Key="(241,0)(244,0)" />
+    <LinkStyle IsArrow="false" Key="(242,0)(237,0)" />
+    <LinkStyle IsArrow="false" Key="(243,0)(244,1)" />
+    <LinkStyle IsArrow="false" Key="(244,0)(237,1)" />
+    <LinkStyle IsArrow="false" Key="(245,0)(233,0)" />
+    <LinkStyle IsArrow="false" Key="(246,0)(245,1)" />
+    <LinkStyle IsArrow="false" Key="(247,0)(242,0)" />
+    <LinkStyle IsArrow="false" Key="(248,0)(247,1)" />
+    <LinkStyle IsArrow="false" Key="(76,0)(164,0)" />
+    <LinkStyle IsArrow="false" Key="(76,0)(166,1)" />
+    <LinkStyle IsArrow="false" Key="(89,0)(76,1)" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.Core.Shape.WbFBDCommentShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Top="60" Left="460" LanguageContainerOrigin="FBD" Key="103">
+      <Text>Window Direction:
+	0:Closed
+	1:Open
+
+Limit Switches: Active Low</Text>
+      <RtfText>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\f0\fs17 Window Direction:\par
+\tab 0:Closed\par
+\tab 1:Open\par
+\par
+Limit Switches: Active Low\par
+}
+</RtfText>
+    </ShapeStyle>
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="150" Left="1500" Key="163" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="255" Left="1320" Key="164" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="NOT" Top="150" Left="1020" Key="165" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="135" Left="1360" Key="166" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="510" Left="1140" Key="167" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="600" Left="960" Key="168" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="420" Left="1500" Key="169" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="525" Left="1320" Key="170" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="NOT" Top="420" Left="1020" Key="171" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="405" Left="1360" Key="172" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="765" Left="1140" Key="173" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="855" Left="960" Key="174" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="675" Left="1500" Key="175" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="780" Left="1320" Key="176" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="NOT" Top="675" Left="1020" Key="177" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="660" Left="1360" Key="178" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="1020" Left="1140" Key="179" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="1110" Left="960" Key="180" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="930" Left="1500" Key="181" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="1035" Left="1320" Key="182" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="NOT" Top="930" Left="1020" Key="183" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="915" Left="1360" Key="184" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="240" Left="1140" Key="186" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="135" Left="1360" Key="188" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="510" Left="1140" Key="189" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="405" Left="1360" Key="191" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="765" Left="1140" Key="192" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="660" Left="1360" Key="194" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="1020" Left="1140" Key="195" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="915" Left="1360" Key="197" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="330" Left="960" Key="200" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="150" Left="1500" Key="201" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="255" Left="1320" Key="202" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="600" Left="960" Key="203" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="420" Left="1500" Key="204" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="525" Left="1320" Key="205" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="855" Left="960" Key="206" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="675" Left="1500" Key="207" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="780" Left="1320" Key="208" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="1110" Left="960" Key="209" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="930" Left="1500" Key="210" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="1035" Left="1320" Key="211" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="2310" Left="960" Key="212" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="2340" Left="960" Key="213" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="2310" Left="1300" Key="214" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="OR" Top="2295" Left="1140" Key="215" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="2310" Left="960" Key="216" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="2340" Left="960" Key="217" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="2310" Left="1300" Key="218" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="OR" Top="2295" Left="1140" Key="219" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="2310" Left="960" Key="220" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="2340" Left="960" Key="221" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="2310" Left="1300" Key="222" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="OR" Top="2295" Left="1140" Key="223" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="2310" Left="960" Key="224" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="2340" Left="960" Key="225" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="2310" Left="1300" Key="226" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="OR" Top="2295" Left="1140" Key="227" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Key="228" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="195" Left="100" Key="229" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="165" Left="100" Key="230" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="150" Left="300" Key="231" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="300" Left="380" Key="232" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" InstanceName="F_TRIG_1" PouCallName="F_TRIG" Top="135" Left="480" LanguageContainerOrigin="FBD" Key="233" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="345" Left="340" Key="234" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" InstanceName="ToggleTime_1" PouCallName="ToggleTime" Top="285" Left="580" LanguageContainerOrigin="FBD" Key="236" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Key="237" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="195" Left="100" Key="238" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="165" Left="100" Key="239" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="150" Left="300" Key="240" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="300" Left="380" Key="241" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" InstanceName="F_TRIG_1" PouCallName="F_TRIG" Top="135" Left="480" LanguageContainerOrigin="FBD" Key="242" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="345" Left="340" Key="243" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" InstanceName="ToggleTime_1" PouCallName="ToggleTime" Top="285" Left="580" LanguageContainerOrigin="FBD" Key="244" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" InstanceName="TON_5" PouCallName="TON" Top="1155" Left="440" LanguageContainerOrigin="FBD" Key="245" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="1290" Left="240" Key="246" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" InstanceName="TON_5" PouCallName="TON" Top="1155" Left="440" LanguageContainerOrigin="FBD" Key="247" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="1290" Left="240" Key="248" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDPouCallShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" LanguageContainerOrigin="FBD" InstanceName="" PouCallName="AND" Top="240" Left="1140" Key="76" />
+    <ShapeStyle Type="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD.Shape.WbFBDVariableAccessShape" Assembly="ISaGRAF.Workbench.Mlge.LanguageContainer.FBD" Alpha="255" Background="#FF4682B4" BackgroundGradient="#FFB0C4DE" FontColor="windowtext" DisplayMode="NameAndAlias" LanguageContainerOrigin="FBD" Top="330" Left="960" Key="89" />
+  </LanguageContainerStyle>
+</Root>
